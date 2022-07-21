@@ -1,3 +1,5 @@
+alpha-bit was suspended on GitHub
+
 is_this_os_a_joke was suspended on Matrix
 
 maxnatt was suspended on GitHub from 2022-04-27 for 30 days
