@@ -1,3 +1,5 @@
+milahu was suspended on GitHub and Matrix
+
 alpha-bit was suspended on GitHub
 
 is_this_os_a_joke was suspended on Matrix
