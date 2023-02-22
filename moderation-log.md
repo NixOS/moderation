@@ -1,4 +1,4 @@
-milahu was suspended on GitHub and Matrix
+milahu was suspended on GitHub, Discourse and Matrix
 
 alpha-bit was suspended on GitHub
 
