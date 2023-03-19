@@ -1,3 +1,5 @@
+ciansa:matrix.org was suspended on Matrix
+
 milahu was suspended on GitHub, Discourse and Matrix
 
 alpha-bit was suspended on GitHub
