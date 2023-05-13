@@ -1,3 +1,11 @@
+chud:nitro.chat was suspended on Matrix
+
+yswtrue:matrix.org was suspended on Matrix
+
+hashmap2:matrix.im was suspended on Matrix
+
+ack:matrix.horse was suspended on Matrix
+
 ciansa:matrix.org was suspended on Matrix
 
 milahu was suspended on GitHub, Discourse and Matrix
