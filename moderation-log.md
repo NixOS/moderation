@@ -1,3 +1,5 @@
+prorounak2005:matrix.org was suspended on Matrix
+
 chud:nitro.chat was suspended on Matrix
 
 yswtrue:matrix.org was suspended on Matrix
