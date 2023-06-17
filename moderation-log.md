@@ -1,3 +1,5 @@
+skybirrd was suspended on GitHub, Discourse and Matrix from 2023-06-17 for 10 days
+
 prorounak2005:matrix.org was suspended on Matrix
 
 chud:nitro.chat was suspended on Matrix
