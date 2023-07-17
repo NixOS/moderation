@@ -12,5 +12,5 @@ Docs: <https://github.com/matrix-org/mjolnir/blob/main/docs/moderators.md>
 !mjolnir ban destructive user <@user-id>
 ```
 
-If the account is a troll, use `!mjolnir redact <@user-id> <#room-id>` to
+If the account is a troll, use `!mjolnir redact <@user-id> [#room-id]` to
 remove the offending messages.
