@@ -10,11 +10,10 @@ We can deal with both new and pre-existing rooms. For pre-existing rooms the exi
 
 - Be joined to `#moderators:nixos.org` with your own account
     - so you can control Mjölnir
-- Get moderator permissions on the space (or subspace) you want to add the room to
-    - `!mjolnir powerlevel @hexa:lossy.network 50 <room>`
 - Active session on the `@admin:nixos.org` account
     - The secret recovery key for the encryption things is on bitwarden
-
+- Get moderator permissions on the space (or subspace) you want to add the room to
+    - `!mjolnir powerlevel @admin:nixos.org 50 <room>`
 
 ## Spaces
 
