@@ -9,6 +9,8 @@
 - GitHub
   - Add to [Moderation team](https://github.com/orgs/NixOS/teams/moderation)
   - Update [team page on homepage](https://github.com/NixOS/nixos-homepage/blob/master/community/teams/moderation.tt)
+- Bitwarden
+  - Invite into the Moderation Team organization (via Infrastructure team)
 
 ## Offboarding
 - Matrix
@@ -20,3 +22,6 @@
 - GitHub
   - Remove from [Moderation team](https://github.com/orgs/NixOS/teams/moderation)
   - Update [team page on homepage](https://github.com/NixOS/nixos-homepage/blob/master/community/teams/moderation.tt)
+- Bitwarden
+  - Remove from Moderation Team organization (via Infrastructure team)
+  - Rotate secrets
