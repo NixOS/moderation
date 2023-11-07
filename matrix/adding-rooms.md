@@ -8,7 +8,7 @@ We can deal with both new and pre-existing rooms. For pre-existing rooms the exi
 
 ## Preconditions
 
-- Be joined to `#moderators:nixos.org`
+- Be joined to `#moderators:nixos.org` with your own account
     - so you can control Mjölnir
 - Active session on the `@admin:nixos.org` account
     - The secret recovery key for the encryption things is on bitwarden
