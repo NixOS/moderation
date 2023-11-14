@@ -1,3 +1,5 @@
+srid was suspended on GitHub, Matrix and Discourse
+
 igothackedontor:matrix.org was suspended on Matrix
 
 girlies:matrix.org was suspended on Matrix
