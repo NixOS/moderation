@@ -1,3 +1,5 @@
+rick.actual:matrix.org was suspended on Matrix.
+
 srid was suspended on GitHub, Matrix and Discourse
 
 igothackedontor:matrix.org was suspended on Matrix
