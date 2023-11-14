@@ -11,6 +11,8 @@
   - Update [team page on homepage](https://github.com/NixOS/nixos-homepage/blob/master/community/teams/moderation.tt)
 - Bitwarden
   - Invite into the Moderation Team organization (via Infrastructure team)
+- Email
+  - Receive email for the community@ alias (via Infrastructure team)
 
 ## Offboarding
 - Matrix
@@ -25,3 +27,5 @@
 - Bitwarden
   - Remove from Moderation Team organization (via Infrastructure team)
   - Rotate secrets
+- Email
+  -  Remove from community@ alias (via Infrastructure team)
