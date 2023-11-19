@@ -31,7 +31,7 @@ The moderation team always involves multiple members in significant decisions li
 
 We record supsension events into the moderation log: [moderation-log.md](moderation-log.md).
 
-In order to protect the privacy of the suspended people (and also the vicims), moderation decisions are not published. We always tell the person in question in private why they got suspended. Other trusted community members can privately ask the moderators about a specific suspension.
+In order to protect the privacy of the suspended people (and also the victims), moderation decisions are not published. We always tell the person in question in private why they got suspended. Other trusted community members can privately ask the moderators about a specific suspension.
 
 ## Code of conduct
 
