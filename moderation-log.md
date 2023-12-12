@@ -1,3 +1,5 @@
+._.:tchncs.de (Maholmire) was suspended on Matrix from 2023-12-12 for 10 days
+
 rick.actual:matrix.org was suspended on Matrix.
 
 srid was suspended on GitHub, Matrix and Discourse
