@@ -1,3 +1,5 @@
+lebrancess:matrix.org was suspended on Matrix from 2023-12-30 for 7 days
+
 blaggacao was suspended on GitHub, Discourse, and Matrix
 
 ._.:tchncs.de (Maholmire) was suspended on Matrix from 2023-12-12 for 10 days
