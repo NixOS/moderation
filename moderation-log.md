@@ -1,3 +1,5 @@
+lebrancess:matrix.org was suspended on Matrix from 2024-01-10
+
 mountaind:matrix.org was suspended on Matrix from 2024-01-01 for 10 days
 
 lebrancess:matrix.org was suspended on Matrix from 2023-12-30 for 7 days
