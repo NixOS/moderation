@@ -12,7 +12,7 @@ The moderation team is not anonymous, you can always look up its current members
 
 ## Reporting issues
 
-- E-mail: [community@nixos.org](mailto:community@nixos.org).
+- E-mail: [moderation@nixos.org](mailto:moderation@nixos.org).
 - Matrix room: [#moderation:nixos.org](https://matrix.to/#/#moderation:nixos.org)
 - On Discourse: [moderators group](https://discourse.nixos.org/g/moderators)
 - On GitHub, ping [`@NixOS/moderation`](https://nixos.org/community/teams/moderation)
