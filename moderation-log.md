@@ -1,3 +1,5 @@
+bzm3r was suspended on Matrix, GitHub and Discourse
+
 lebrancess:matrix.org was suspended on Matrix from 2024-01-10
 
 mountaind:matrix.org was suspended on Matrix from 2024-01-01 for 10 days
