@@ -1,3 +1,7 @@
+thedragon6:matrix.org was suspended on Matrix
+
+revell.:matrix.org was suspended on Matrix
+
 bzm3r was suspended on Matrix, GitHub and Discourse
 
 lebrancess:matrix.org was suspended on Matrix from 2024-01-10
