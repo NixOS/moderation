@@ -1,3 +1,5 @@
+piggypiggy:matrix.org was suspended on Matrix
+
 larryflynnov:matrix.org was suspended on Matrix
 
 thedragon6:matrix.org was suspended on Matrix
