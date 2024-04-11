@@ -1,4 +1,6 @@
-achooie wasa suspended on Discourse for 14 days for abusing the flagging feature and causing disproportionate moderation team time consumption.
+falaichte was suspended for harassment and being disruptive on Matrix on multiple occasions.
+
+achooie was suspended on Discourse for 14 days for abusing the flagging feature and causing disproportionate moderation team time consumption.
 
 tgunnoe was muted on Discourse and Matrix for 7 days from 2024-03-14 for disregarding multiple warnings about engaging in the discussions in an unproductive manner and being disruptive
 
