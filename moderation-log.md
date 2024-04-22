@@ -1,3 +1,5 @@
+@ailunarenth:tchncs.de was banned on Matrix as an alt of falaichte for ban evasion.
+
 falaichte was suspended for harassment and being disruptive on Matrix on multiple occasions.
 
 achooie was suspended on Discourse for 14 days for abusing the flagging feature and causing disproportionate moderation team time consumption.
