@@ -2,7 +2,7 @@
 
 Live chats sometimes require quick intervention.
 
-We have a secret chan that we can use to interact with the mjolnir bot.
+We have a private channel that we can use to interact with the mjolnir bot.
 
 Docs: <https://github.com/matrix-org/mjolnir/blob/main/docs/moderators.md>
 
