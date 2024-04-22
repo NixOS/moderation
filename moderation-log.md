@@ -1,3 +1,5 @@
+@ailunarenth:tchncs.de was banned from https://matrix.to/#/#platform-governance:nixos.org by @infinisil (who is not in the moderation team right now, but has mod powers in that room and was the only person with such powers at that point in time) after being asked for it by three trusted community members, who suspecting that account to be an alt account of falaichte.
+
 falaichte was suspended for harassment and being disruptive on Matrix on multiple occasions.
 
 achooie was suspended on Discourse for 14 days for abusing the flagging feature and causing disproportionate moderation team time consumption.
