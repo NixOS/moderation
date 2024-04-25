@@ -1,3 +1,5 @@
+jonringer was suspended for 6 weeks (until 2024-06-10) for repeatedly derailing sensitive discussions and willfully furthering the division in the community
+
 @ailunarenth:tchncs.de was banned on Matrix as an alt of falaichte for ban evasion.
 
 falaichte was suspended for harassment and being disruptive on Matrix on multiple occasions.
