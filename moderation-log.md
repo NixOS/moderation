@@ -1,3 +1,5 @@
+@sarosa:infosex.exchange was banned on Matrix as an alt of falaichte for ban evasion
+
 nxdxp, tgunnoe, apcodes and terracia were suspended pending further moderation action
 
 jonringer was suspended for 6 weeks (until 2024-06-10) for repeatedly derailing sensitive discussions and willfully furthering the division in the community
