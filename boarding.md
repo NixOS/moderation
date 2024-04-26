@@ -10,7 +10,7 @@
 - GitHub
   - [ ] Add to [Moderation team](https://github.com/orgs/NixOS/teams/moderation)
   - [ ] Add to [Moderators](https://github.com/organizations/NixOS/settings/moderators) on the organization (via GitHub owners)
-  - [ ] Update [team page on homepage](https://github.com/NixOS/nixos-homepage/blob/master/community/teams/moderation.tt)
+  - [ ] Update [team page on homepage](https://github.com/NixOS/nixos-homepage/blob/main/src/content/teams/08_moderation.mdx)
 - Bitwarden
   - [ ] Invite into the Moderation Team organization (via Infrastructure team)
 - Email
@@ -27,7 +27,7 @@
 - GitHub
   - [ ] Remove from [Moderation team](https://github.com/orgs/NixOS/teams/moderation)
   - [ ] Remove from [Moderators](https://github.com/organizations/NixOS/settings/moderators) on the organization (via GitHub owners)
-  - [ ] Update [team page on homepage](https://github.com/NixOS/nixos-homepage/blob/master/community/teams/moderation.tt)
+  - [ ] Update [team page on homepage](https://github.com/NixOS/nixos-homepage/blob/main/src/content/teams/08_moderation.mdx)
 - Bitwarden
   - [ ] Remove from Moderation Team organization (via Infrastructure team)
   - [ ] Rotate secrets
