@@ -14,7 +14,7 @@
 - Bitwarden
   - [ ] Invite into the Moderation Team organization (via Infrastructure team)
 - Email
-  - [ ] Receive email for the community@ alias (via Infrastructure team)
+  - [ ] Receive email for the moderation@ alias (via Infrastructure team)
 
 ## Offboarding
 
@@ -32,4 +32,4 @@
   - [ ] Remove from Moderation Team organization (via Infrastructure team)
   - [ ] Rotate secrets
 - Email
-  - [ ] Remove from community@ alias (via Infrastructure team)
+  - [ ] Remove from moderation@ alias (via Infrastructure team)
