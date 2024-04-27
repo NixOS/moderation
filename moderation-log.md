@@ -1,3 +1,5 @@
+tarrens has been suspended on Discourse for 14 days for trolling sensitive topics and abusing the flagging feature
+
 @sarosa:infosex.exchange was banned on Matrix as an alt of falaichte for ban evasion
 
 nxdxp, tgunnoe and apcodes were suspended pending further moderation action
