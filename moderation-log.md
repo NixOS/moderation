@@ -12,7 +12,7 @@ nxdxp, tgunnoe and apcodes were suspended pending further moderation action
 
 terracia was suspended on Discourse for wasting inconsiderate amounts of community energy through a sockpuppet account
 
-jonringer was suspended for 6 weeks (until 2024-06-10) for repeatedly derailing sensitive discussions and willfully furthering the division in the community
+jonringer was suspended for 6 weeks (until 2024-06-10) for repeatedly derailing sensitive discussions and willfully furthering the division in the community. For more information, see <https://discourse.nixos.org/t/why-was-jon-ringer-banned-from-github/44114/23>
 
 @ailunarenth:tchncs.de was banned on Matrix as an alt of falaichte for ban evasion.
 
