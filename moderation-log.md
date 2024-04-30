@@ -1,3 +1,5 @@
+wombat has been suspended on Discourse for 14 days for engaging in discussions in a unproductive manner and not following mod instructions
+
 g.p was suspended on Discourse for 14 days for persistent combative behavior and lack of any constructive approach
 
 wombat has been suspended on Discourse for 1 day for blatantly disregarding mod instructions
