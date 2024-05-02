@@ -1,3 +1,5 @@
+nixnewb has been suspended on Discourse for 14 days for persistent combative behavior
+
 wombat has been suspended on Discourse for 14 days for engaging in discussions in a unproductive manner and not following mod instructions
 
 g.p was suspended on Discourse for 14 days for persistent combative behavior and lack of any constructive approach
