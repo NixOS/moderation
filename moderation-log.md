@@ -10,7 +10,7 @@ tarrens has been suspended on Discourse for 14 days for trolling sensitive topic
 
 @sarosa:infosec.exchange was banned on Matrix as an alt of falaichte for ban evasion
 
-nxdxp and apcodes were suspended pending further moderation action
+nxdxp and apcodes were suspended for 14 days (from 2024-04-26) for the contents of the Appendix of RFC0175, which we consider inflammatory, because of personal attacks and defamation against individual community members.
 
 terracia was suspended on Discourse for wasting inconsiderate amounts of community energy through a sockpuppet account
 
