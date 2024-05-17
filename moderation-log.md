@@ -1,3 +1,5 @@
+wombat has been suspended on Discourse for repeated deliberate attemps to cause drama, while lacking any constructive purpose in the community.
+
 nixnewb has been suspended on Discourse for 14 days for persistent combative behavior
 
 wombat has been suspended on Discourse for 14 days for engaging in discussions in a unproductive manner and not following mod instructions
