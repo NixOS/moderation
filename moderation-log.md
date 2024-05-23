@@ -1,3 +1,5 @@
+NixTonic and Blaire-Cones have been suspended on Github for sockpuppeting sensitive discussions
+
 kreyren has been suspended on Matrix for 1 week after repeated warnings about behavior that violates multiple sections of the Code of Conduct.
 
 wombat has been suspended on Discourse for repeated deliberate attemps to cause drama, while lacking any constructive purpose in the community.
