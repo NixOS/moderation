@@ -1,3 +1,5 @@
+@echobc:matrix.org was suspended on Matrix
+
 NixTonic and Blaire-Cones have been suspended on Github for sockpuppeting sensitive discussions
 
 kreyren has been suspended on Matrix for 1 week after repeated warnings about behavior that violates multiple sections of the Code of Conduct.
