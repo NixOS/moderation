@@ -1,3 +1,5 @@
+jonringer has been permanently banned from official community spaces.
+
 @echobc:matrix.org was suspended on Matrix
 
 NixTonic and Blaire-Cones have been suspended on Github for sockpuppeting sensitive discussions
