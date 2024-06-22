@@ -36,4 +36,4 @@
 - Email
   - [ ] Remove from moderation@ alias (via Infrastructure team)
 - Wiki
-  - [ ] Remove the [`moderator` user group](https://wiki.nixos.org/wiki/NixOS_Wiki:Moderator)
+  - [ ] Remove from the [`moderator` user group](https://wiki.nixos.org/wiki/NixOS_Wiki:Moderator)
