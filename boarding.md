@@ -16,7 +16,7 @@
 - Email
   - [ ] Receive email for the moderation@ alias (via Infrastructure team)
 - Wiki
-  - [ ] Request the [`moderator` user group](https://wiki.nixos.org/wiki/NixOS_Wiki:Moderator), if desired
+  - [ ] Request access to the [`moderator` user group](https://wiki.nixos.org/wiki/NixOS_Wiki:Moderator)
 
 ## Offboarding
 
