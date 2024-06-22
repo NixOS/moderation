@@ -1,3 +1,5 @@
+@foo:tchncs.de was banned from Matrix.
+
 jonringer has been permanently banned from official community spaces.
 
 @echobc:matrix.org was suspended on Matrix
