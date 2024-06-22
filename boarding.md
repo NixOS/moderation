@@ -15,6 +15,8 @@
   - [ ] Invite into the Moderation Team organization (via Infrastructure team)
 - Email
   - [ ] Receive email for the moderation@ alias (via Infrastructure team)
+- Wiki
+  - [ ] Request access to the [`moderator` user group](https://wiki.nixos.org/wiki/NixOS_Wiki:Moderator)
 
 ## Offboarding
 
@@ -33,3 +35,5 @@
   - [ ] Rotate secrets
 - Email
   - [ ] Remove from moderation@ alias (via Infrastructure team)
+- Wiki
+  - [ ] Remove from the [`moderator` user group](https://wiki.nixos.org/wiki/NixOS_Wiki:Moderator)
