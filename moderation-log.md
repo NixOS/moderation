@@ -1,3 +1,5 @@
+Butttars has been suspended for 1 week on Discourse for a display of inappropriate behavior
+
 @foo:tchncs.de was banned from Matrix.
 
 jonringer has been permanently banned from official community spaces.
