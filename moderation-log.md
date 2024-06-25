@@ -1,3 +1,5 @@
+RGBCube hab been permanently banned from official spaces for harassment
+
 Butttars has been suspended for 1 week on Discourse for a display of inappropriate behavior
 
 @foo:tchncs.de was banned from Matrix.
