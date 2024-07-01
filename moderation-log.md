@@ -1,3 +1,5 @@
+nixos.asia, zephyrs were suspended on Discourse for being sockpuppet accounts
+
 RGBCube hab been permanently banned from official spaces for harassment
 
 Butttars has been suspended for 1 week on Discourse for a display of inappropriate behavior
