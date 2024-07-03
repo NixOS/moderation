@@ -1,3 +1,5 @@
+BryanLunduke has been suspended on all platforms
+
 nixos.asia, zephyrs were suspended on Discourse for being sockpuppet accounts
 
 RGBCube hab been permanently banned from official spaces for harassment
