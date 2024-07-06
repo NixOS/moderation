@@ -1,3 +1,5 @@
+g.p and g.p.2 have been permanently banned from Discourse
+
 BryanLunduke has been suspended on all platforms
 
 nixos.asia, zephyrs were suspended on Discourse for being sockpuppet accounts
