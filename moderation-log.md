@@ -1,3 +1,5 @@
+nrdxp was removed from the NixOS org to due interfering with election Q&A
+
 Kreyren has been suspended on all platforms for repeated displays of inappropriate behavior.
 
 g.p and g.p.2 have been permanently banned from Discourse
