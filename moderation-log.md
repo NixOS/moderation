@@ -1,3 +1,5 @@
+hacscred was banned on GitHub for repeatedly showing hostile interactions with our contributor base.
+
 nrdxp was removed from the NixOS org to due interfering with election Q&A
 
 Kreyren has been suspended on all platforms for repeated displays of inappropriate behavior.
