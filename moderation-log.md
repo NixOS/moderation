@@ -1,3 +1,5 @@
+@nixosmodspuppet:matrix.org was banned on Matrix for making the impression they would represent the nixos moderation team.
+
 hacscred was banned on GitHub for repeatedly showing hostile interactions with our contributor base.
 
 nrdxp was removed from the NixOS org to due interfering with election Q&A
