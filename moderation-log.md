@@ -1,3 +1,5 @@
+nrdxp has been suspended on all platforms for regularly heating debates on GitHub and Discourse.
+
 @nixosmodspuppet:matrix.org was banned on Matrix for making the impression they would represent the nixos moderation team.
 
 hacscred was banned on GitHub for repeatedly showing hostile interactions with our contributor base.
