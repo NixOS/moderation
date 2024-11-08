@@ -1,3 +1,7 @@
+tgunnoe has been suspended on all platforms for regularly heating debates on Discourse.
+
+apcodes has been suspended on all platforms for regularly heating debates on GitHub and Discourse.
+
 nrdxp has been suspended on all platforms for regularly heating debates on GitHub and Discourse.
 
 @nixosmodspuppet:matrix.org was banned on Matrix for making the impression they would represent the nixos moderation team.
