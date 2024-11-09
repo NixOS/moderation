@@ -4,6 +4,7 @@
   - [ ] Add to private discussion room
   - [ ] Add to mjolnir admin room
 - Discourse
+  - [ ] Set a password in Discourse (if you have bene using OIDC federation until now), and enable 2FA  
   - [ ] Set to Moderator
   - [ ] Add to Moderation Team
   - [ ] Announce team membership update
