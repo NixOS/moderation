@@ -1,3 +1,5 @@
+admercs has been suspended on Discourse for two weeks for harassing a sensitive discussion thread.
+
 tgunnoe has been suspended on all platforms for regularly heating debates on Discourse.
 
 apcodes has been suspended on all platforms for regularly heating debates on GitHub and Discourse.
