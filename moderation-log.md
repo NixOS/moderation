@@ -1,3 +1,5 @@
+cafkafk has been suspended on all platforms for 24h after performing personal attaks and escalating the debate in the moderation matrix room.
+
 elikoga has been suspended on Discourse for the remainder of the week for vindictive flagging of posts
 
 rjc has been suspended on Discourse for two days for heating debates on Discourse.
