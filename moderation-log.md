@@ -1,3 +1,5 @@
+linuxisbest has been suspended on Discourse for two weeks for combatitive conduct and rude language towards those providing support answers
+
 mightyiam has been suspended for 2 weeks for persistent time-wasting.
 
 ehmry has been warned then suspended on GitHub and Discourse for blatant disrespect and timewasting of reviewers.
