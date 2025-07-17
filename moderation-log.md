@@ -1,3 +1,5 @@
+Aliervo has been permanently suspended on all platforms for trolling.
+
 linuxisbest has been suspended on Discourse for two weeks for combatitive conduct and rude language towards those providing support answers
 
 mightyiam has been suspended for 2 weeks for persistent time-wasting.
