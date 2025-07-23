@@ -17,6 +17,7 @@
   - [ ] Invite into the Moderation Team organization (via Infrastructure team)
 - Email
   - [ ] Receive email for the moderation@ alias (via Infrastructure team)
+  - [ ] Invite to freescout
 - Wiki
   - [ ] Request access to the [`moderator` user group](https://wiki.nixos.org/wiki/NixOS_Wiki:Moderator)
 
@@ -38,5 +39,6 @@
   - [ ] Rotate secrets
 - Email
   - [ ] Remove from moderation@ alias (via Infrastructure team)
+  - [ ] Remove from freescout
 - Wiki
   - [ ] Remove from the [`moderator` user group](https://wiki.nixos.org/wiki/NixOS_Wiki:Moderator)
