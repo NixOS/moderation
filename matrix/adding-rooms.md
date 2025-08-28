@@ -53,8 +53,9 @@ From the `@admin:nixos.org` user, execute the following steps:
 - Tell mjolnir to protect the room
     - `!mjolnir rooms add <alias>`
 - Upload room avatar
-    - Hash the room id with md5 (like done in the script)
-    - Then `wget https://www.gravatar.com/avatar/${HASH}?d=identicon&f=y&s=2048`
+    - Hash the room id (old) or room alias with md5 and download the avatar:
+    - Set roomAlias: `export roomAlias=#example:nixos.org`
+    - Run `wget -O /tmp/$roomAlias.png "https://www.gravatar.com/avatar/$(echo -n "$roomAlias" | md5sum | cut -d' ' -f1)?d=identicon&f=y&s=2048"`
 - Add the room to the relevant space
 - Verify permissions on Mjölnir are all good
     - `!mjolnir verify`
