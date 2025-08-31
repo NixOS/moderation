@@ -1,3 +1,5 @@
+otherthanemry has been banned for evasion and further escalation
+
 Aliervo has been permanently suspended on all platforms for trolling.
 
 linuxisbest has been suspended on Discourse for two weeks for combatitive conduct and rude language towards those providing support answers
