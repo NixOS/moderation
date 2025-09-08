@@ -1,3 +1,5 @@
+nyanbinary has been suspended on discourse for 30h to disgengage from heated discussions.
+
 otherthanemry has been banned for evasion and further escalation
 
 Aliervo has been permanently suspended on all platforms for trolling.
