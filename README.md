@@ -36,6 +36,8 @@ In order to protect the privacy of the individuals involved, justification behin
 ### Ban Appeal Process
 
 Individuals banned from the community by the moderation team may appeal the decision to the Steering Committee (SC).
+The appeal process is meant to provide guardrails against mistaken and unjust bans, by holding the moderation team accountable to the SC for its decisions.
+Lifting then-undisputed long-standing bans is and remains a duty of the moderation team alone, which is a different procedure than a ban appeal.
 
 **Eligibility:**
 In order to appeal, two current Nixpkgs committers must vouch for the banned individual and affirm that the ban was, in their view, mistaken.
