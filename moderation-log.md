@@ -1,3 +1,5 @@
+frumptious has been suspended on Discourse for an overtly transphobic comment.
+
 L33tT33n has been supended from Matrix for ragebaiting.
 
 joepie91 has been suspended on community platforms until 2025-11-02 for divisive behavior.
