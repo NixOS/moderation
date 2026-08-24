@@ -1,3 +1,5 @@
+guylamar2006 has been suspended on GitHub until 2025-10-24 for PRs violating Nixpkgs contribution policy after being warned.
+
 frumptious has been suspended on Discourse for an overtly transphobic comment.
 
 L33tT33n has been supended from Matrix for ragebaiting.
