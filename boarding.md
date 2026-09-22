@@ -19,7 +19,7 @@
   - [ ] Receive email for the moderation@ alias (via Infrastructure team)
   - [ ] Invite to freescout
 - Wiki
-  - [ ] Request access to the [`moderator` user group](https://wiki.nixos.org/wiki/NixOS_Wiki:Moderator)
+  - [ ] Request access to the [`moderator` user group](https://wiki.nixos.org/wiki/Official_NixOS_Wiki:Moderator)
 
 ## Offboarding
 
