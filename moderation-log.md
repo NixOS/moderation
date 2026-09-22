@@ -1,3 +1,5 @@
+illdefined has been suspended from NixOS spaces (https://github.com/NixOS/nixpkgs-committers/pull/125)
+
 guylamar2006 has been suspended on GitHub until 2025-10-24 for PRs violating Nixpkgs contribution policy after being warned.
 
 frumptious has been suspended on Discourse for an overtly transphobic comment.
