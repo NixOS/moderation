@@ -1,3 +1,5 @@
+Malix was suspended for targeted harassment (insincere death threat) from 2026-10-06 to 2026-11-06.
+
 illdefined has been suspended from NixOS spaces (https://github.com/NixOS/nixpkgs-committers/pull/125)
 
 guylamar2006 has been suspended on GitHub until 2025-10-24 for PRs violating Nixpkgs contribution policy after being warned.
