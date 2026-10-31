@@ -33,6 +33,26 @@ We record suspension events into the moderation log: [moderation-log.md](moderat
 
 In order to protect the privacy of the individuals involved, justification behind moderation decisions is not published. We always tell the person in question in private why they got suspended. Other trusted community members may privately ask the moderators about a specific suspension.
 
+### Ban Appeal Process
+
+Individuals banned from the community by the moderation team may appeal the decision to the Steering Committee (SC).
+The appeal process is meant to provide guardrails against mistaken and unjust bans, by holding the moderation team accountable to the SC for its decisions.
+Lifting then-undisputed long-standing bans is and remains a duty of the moderation team alone, which is a different procedure than a ban appeal.
+
+**Eligibility:**
+In order to appeal, two current Nixpkgs committers must vouch for the banned individual and affirm that the ban was, in their view, mistaken.
+If the banned individual is or was a Nixpkgs committer, only one additional committer is required in order to appeal.
+
+**Procedure:**
+Both the banned individual and the moderation team submit written reports to the SC describing their account of the situation.
+In order to promote maximum honesty and trust in the process, these reports are kept internal to SC members only.
+The SC must then discuss the matter, and either reject the appeal, or initiate a relitigation of the situation, which may involve further discussions with the involved parties.
+The SC must lead the process; In the case of SC inaction for more than three months, the appeal is automatically rejected.
+
+**Resolution:**
+The goal of a relitigation should be for the SC and moderation team to come to a mutually agreed conclusion of the case based on new facts and perspectives brought to the table.
+However, in case of irreconcilable disagreement, the SC has the final decision authority over the case.
+
 ## Code of conduct
 
 Our [Code of Conduct](https://github.com/NixOS/.github/blob/master/CODE_OF_CONDUCT.md) outlines the standards we use to guide our decisions.
